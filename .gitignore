@@ -25,6 +25,8 @@
 *.log
 *.sql
 *.sqlite
+*.db
+src/data/
 
 # OS generated files #
 ######################
